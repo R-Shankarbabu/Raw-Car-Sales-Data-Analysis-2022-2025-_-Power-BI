@@ -67,6 +67,9 @@ The dataset consists of **three CSV tables** with ~10,000 rows and 22 columns, o
 
 ---
 
-## 📂 Repository Structure
+## 📸 Dashboard Preview
+
+![Car Sales Dashboard](images/dashboard.png)
+
 
 
