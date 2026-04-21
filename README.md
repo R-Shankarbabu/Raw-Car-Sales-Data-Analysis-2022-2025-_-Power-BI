@@ -69,6 +69,6 @@ The dataset consists of **three CSV tables** with ~10,000 rows and 22 columns, o
 
 ## 📸 Dashboard Preview.
 
-![Dashboard Preview](Data/dashboard.png)
+![Dashboard Preview](Data/mini.png)
 
 
